@@ -2,6 +2,10 @@ package pojos;
 
 import java.sql.Date;
 
+//hiii
+//bbyeee
+//gud night
+
 public class User {
 //id | name    | email          | password | reg_amt | reg_date   | role 
 	private int userId;
